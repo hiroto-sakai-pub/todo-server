@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "nodemon":"nodemon",
     "dev": "nodemon src/index.ts"
   },
   "keywords": [],
